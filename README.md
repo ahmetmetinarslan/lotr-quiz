@@ -10,7 +10,7 @@ For this test, html, css and javascript were used.<br><br>
 Content of the Site <br>
 
 1<br>
-![Start]([http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true))<br>
+![Start]([[http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true)](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true))<br>
 
 2<br>
 ![Question-1]([[http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true)](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s2.png?raw=true))<br>
