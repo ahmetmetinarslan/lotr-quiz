@@ -6,6 +6,7 @@ Lotr Quiz<br>
 - If no answer is given after 10 seconds, the correct answer will appear automatically.<br>
 - At the end of the test, you will see how many correct or how many mistakes you have made.<br>
 - For this test, html, css and javascript were used.<br><br>
+- Active site link - https://lotrquiz.netlify.app/ <br><br>
 
 Content of the Site <br>
 
