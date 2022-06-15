@@ -10,19 +10,19 @@ For this test, html, css and javascript were used.<br><br>
 Content of the Site <br>
 
 1<br>
-![alt text]([http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true))<br>
+![Start]([http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true))<br>
 
 2<br>
-![alt text]([[http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true)](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s2.png?raw=true))<br>
+![Question-1]([[http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true)](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s2.png?raw=true))<br>
 
 3<br>
-![alt text]([[http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true)](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s3.png?raw=true))<br>
+![Question-2]([[http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true)](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s3.png?raw=true))<br>
 
 4<br>
-![alt text][([http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true)](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s4.png?raw=true))<br>
+![Question-3][([http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true)](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s4.png?raw=true))<br>
 
 5<br>
-![alt text]([[http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true)](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s5.png?raw=true))<br>
+![Question-4]([[http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true)](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s5.png?raw=true))<br>
 
 6<br>
-![alt text]([[http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true)](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s6.png?raw=true))
+![End]([[http://url/to/img.png](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true)](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s6.png?raw=true))
