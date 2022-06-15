@@ -11,15 +11,15 @@ Content of the Site <br>
 
 ![alt text](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true) <br>
 
-![alt text]([https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s2.png?raw=true)) <br>
+![alt text](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s2.png?raw=true) <br>
 
-![alt text](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true) <br>
+![alt text](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s3.png?raw=true) <br>
 
-![alt text](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true) <br>
+![alt text](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s4.png?raw=true) <br>
 
-![alt text](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true) <br>
+![alt text](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s5.png?raw=true) <br>
 
-![alt text](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s1.png?raw=true) <br>
+![alt text](https://github.com/ahmetmetinarslan/lotr-quiz/blob/main/Lotr%20Quiz%20Site/Website%20View/s6.png?raw=true) <br>
 
 
 
